@@ -1,0 +1,6 @@
+My place of work doesn't support LDAP. I have many things I would do if I had an LDAP server.  Larry will:
+
+* Create an IMAP connection, verify that username/pw is valid
+* Create an LDAP object matching that username/pw.
+
+needed gems: easy_imap, ruby-ldapserver
