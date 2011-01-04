@@ -1,0 +1,18 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    easy_imap (0.0.4)
+      tmail (>= 1.2.3.1)
+    hoe (2.8.0)
+      rake (>= 0.8.7)
+    rake (0.8.7)
+    ruby-ldapserver (0.3.1)
+      hoe (>= 1.4.0)
+    tmail (1.2.7.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  easy_imap
+  ruby-ldapserver
